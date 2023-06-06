@@ -53,7 +53,7 @@
   width: 100%;
   height: 260px;
 }
-@media screen and (min-width:400px) {
+@media screen and (min-width:500px) {
   #carouselExampleIndicators{
  display: none;
 }

@@ -71,7 +71,7 @@ h1{
 
 
 
-@media screen and (max-width:400px) {
+@media screen and (max-width:500px) {
     .Daily,.Top,.Playlist,.Radio{
     width: 50px;
     height: 50px;

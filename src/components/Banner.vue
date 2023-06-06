@@ -13,7 +13,7 @@
 </template>
 
 <style scoped>
-@media screen and (min-width:400px) {
+@media screen and (min-width:500px) {
 .contenedor{
 width: 100%;
 height: 10;

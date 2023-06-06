@@ -40,7 +40,7 @@ background-color: black;
 color: white;
 }
 
-@media screen and (min-width:400px) {
+@media screen and (min-width:500px) {
 .conte{
 width: 100%;
 height: 110px;

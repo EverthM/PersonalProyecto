@@ -91,7 +91,7 @@ svg{
   color: magenta;
 }
 
-@media screen and (max-width:400px) {
+@media screen and (max-width:500px) {
     .principal{
       width: 100%;
         display: flex;

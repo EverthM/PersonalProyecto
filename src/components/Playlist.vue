@@ -133,7 +133,7 @@ Bad Bunny
 </template>
 
 <style scoped>
-@media screen and (max-width:400px) {
+@media screen and (max-width:500px) {
 #container{
   display: none;
 }
@@ -141,7 +141,7 @@ Bad Bunny
 }
 
 
-@media screen and (min-width:400px) {
+@media screen and (min-width:500px) {
 
 #container{
 width: 100%;

@@ -90,7 +90,7 @@ justify-content: space-between;
 
   }
 
-@media screen and (min-width:400px) {
+@media screen and (min-width:500px) {
 
 #container{
   width: 100%;

@@ -22,12 +22,12 @@
 </template>
 
 <style scoped>
-@media screen and (max-width:400px) {
+@media screen and (max-width:500px) {
     .contenedor{
     display: none;
 }
 }
-@media screen and (min-width:400px) {
+@media screen and (min-width:500px) {
 .contenedor{
     background-color: black;
     width: 100%;
